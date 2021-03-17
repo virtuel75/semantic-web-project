@@ -1,0 +1,20 @@
+// Changing the theme colors
+$primary-color: #3ca4f6;
+$accent-color: #6c63ff;
+
+// Adding (!) an additional theme color (ex. classes btn-cool, bg-cool)
+$theme-colors: (
+  "primary": $primary-color,
+  "accent": $accent-color,
+  "secondary": $secondary,
+  "success": $success,
+  "info": $info,
+  "warning": $warning,
+  "danger": $danger,
+  "light": $light,
+  "dark": $dark
+);
+
+// Change font family
+$font-family-sans-serif: Roboto, -apple-system, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+$font-family-base: $font-family-sans-serif;
