@@ -1,0 +1,5 @@
+$custom-typography: mat-typography-config(
+  $font-family: 'Roboto, -apple-system, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif',
+  $headline: mat-typography-level(32px, 48px, 700),
+  $body-1: mat-typography-level(16px, 24px, 500),
+);
