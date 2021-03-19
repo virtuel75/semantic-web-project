@@ -1,7 +1,20 @@
-#app-main {
+:host {
+    display: block;
     width: 100vw;
     height: 100vh;
     position: relative;
-    display: flex;
-    flex-direction: row;
+}
+
+#app-side {
+    width: 35%;
+}
+
+#app-content {
+    position: relative;
+}
+
+#app-meteo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }

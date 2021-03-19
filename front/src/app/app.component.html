@@ -1,2 +1,22 @@
-<main id="app-main">
-</main>
+<mat-sidenav-container class="h-100 w-100">
+    <!-- app side -->
+    <mat-sidenav mode="side" opened id="app-side" class="border-0 shadow-sm">
+        <div class="d-flex flex-column text-dark h-100 w-100">
+            <!-- logo, app title -->
+            <app-header></app-header>
+            <!-- formulaire -->
+            <app-formulaire-trajet></app-formulaire-trajet>
+            <!-- résultats -->
+            <app-resultats-container class="h-100"></app-resultats-container>
+        </div>
+    </mat-sidenav>
+
+    <!-- app content -->
+    <mat-sidenav-content id="app-content" class="bg-primary text-dark">
+        <!-- container for the map -->
+        <app-map class="h-100 w-100"></app-map>
+
+        <!-- meteo -->
+        <app-meteo id="app-meteo"></app-meteo>
+    </mat-sidenav-content>
+</mat-sidenav-container>
