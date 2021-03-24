@@ -1,14 +1,11 @@
 <div class="border-bottom p-3 bg-white">
-    <h5>
+    <h5 class="mb-3">
         <span class="bg-primary rounded-pill px-2 py-1 text-white mr-2">
-            5
+            {{ item.capacity }}
             <fa-icon [icon]="['fas', 'bicycle']" class="ml-1"></fa-icon>
         </span>
-        <span>Benjamin Godard - Victor Hugo</span>
+        <span>{{ item.name }}</span>
     </h5>
-    <p class="mb-0 text-secondary">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia itaque
-        temporibus quia, assumenda
-        adipisci nam
-        culpa optio neque illo consequatur molestiae alias doloribus libero saepe quam architecto magnam
-        inventore impedit?</p>
+    <p>Station code: {{ item.stationCode }}</p>
+    <p class="mb-0">Distance: {{ distance }}m</p>
 </div>

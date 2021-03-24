@@ -1,4 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+
+export interface IResult {
+  name: string,
+  distance: number,
+  stationCode: string,
+  capacity: number
+}
 
 @Component({
   selector: 'app-resultats-item',
@@ -7,9 +14,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ResultatsItemComponent implements OnInit {
 
-  constructor() { }
+  @Input() public item!: IResult
 
-  ngOnInit(): void {
+  public distance: number = 0
+
+  public constructor() { }
+
+  public ngOnInit(): void {
+    this.distance = Math.round(this.item.distance)
   }
 
 }

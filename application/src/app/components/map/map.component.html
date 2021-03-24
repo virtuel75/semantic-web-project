@@ -1,1 +1,6 @@
-<google-map height="100%" width="100%" [options]="MapOptions" [center]="Position" [zoom]="DefaultZoom"></google-map>
+<google-map height="100%" width="100%" [options]="MapOptions" [center]="Position" [zoom]="DefaultZoom">
+    <ng-template [ngIf]="markers && markers.length > 0">
+        <map-marker *ngFor="let marker of Markers; index as i" [position]="marker.position" [label]="marker.label"
+            [title]="marker.title" [options]="marker.options"></map-marker>
+    </ng-template>
+</google-map>

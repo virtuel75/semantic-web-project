@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { IMeteo } from 'src/app/core/models/meteo.models';
 
 @Component({
   selector: 'app-meteo',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MeteoComponent implements OnInit {
 
-  constructor() { }
+  @Input() public meteo: IMeteo | undefined
 
-  ngOnInit(): void {
+  public constructor() { }
+
+  public ngOnInit(): void {
   }
 
 }

@@ -1,6 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Inject, Injectable, InjectionToken, Optional } from '@angular/core';
-import { IBikeResponse } from '../models/bike.models';
+import { IBikeResponse, IBikeStation } from '../models/bike.models';
+import { ICoordinate } from '../models/coordinate.models';
 
 export const BIKESTATION_BASE_URL = new InjectionToken<string>('API_BASE_URL')
 
@@ -16,8 +17,11 @@ export class BikeService {
     this._url = baseUrl !== undefined && baseUrl !== null ? baseUrl : "https://opendata.paris.fr/api/records/1.0/search/?dataset=velib-emplacement-des-stations"
   }
 
-  public getBikes = () => {
-    let url = this._url
+  public getBikes = (coordinate: ICoordinate) => {
+    const lat: number = coordinate.latitude
+    const lng: number = coordinate.longitude
+
+    let url = this._url + '&q=&lang=fr&rows=10&geofilter.distance=' + lat + '%2C' + lng + '%2C1000'
     url = url.replace(/[?&]$/, "")
 
     let options: any = {
@@ -28,8 +32,12 @@ export class BikeService {
 
     return this.http.get<IBikeResponse>(url, options)
       .toPromise()
-      .then((value) => {
-        console.log(value)
+      .then((values: any) => {
+        const reponse: IBikeResponse = values
+        const stations: IBikeStation[] = reponse.records
+        return stations
+      }, () => {
+        return null
       })
   }
 }

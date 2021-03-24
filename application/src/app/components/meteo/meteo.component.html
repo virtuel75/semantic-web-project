@@ -1,6 +1,24 @@
-<div class="bg-white p-2 shadow-sm rounded">
-    <p class="mb-0">
-        <fa-icon [icon]="['fas', 'sun']" class="mr-2"></fa-icon>
-        <span>This is the meteo</span>
-    </p>
+<div *ngIf="meteo" class="bg-white p-3 shadow-sm rounded">
+    <div class="d-flex align-items-center justify-content-between w-100">
+        <div class="mr-3">
+            <p>
+                <fa-icon [icon]="['fas', 'sun']" class="d-inline-block mr-2"></fa-icon>
+                <span>{{ meteo.main }}</span>
+            </p>
+            <p class="mb-0">
+                <fa-icon [icon]="['fas', 'tint']" class="d-inline-block mr-2"></fa-icon>
+                <span>{{ meteo.humidity }}%</span>
+            </p>
+        </div>
+        <div class="ml-3">
+            <p style="font-size: 70px;" class="text-center w-100">
+                <fa-icon [icon]="['fas', 'temperature-low']" class="d-inline-block mr-3"></fa-icon>
+                <span>{{ meteo.temp }}°C</span>
+            </p>
+            <div class="d-flex align-items-center justify-content-around">
+                <p class="mb-0">min: {{ meteo.temp_max }}°C</p>
+                <p class="mb-0">max: {{ meteo.temp_min }}°C</p>
+            </div>
+        </div>
+    </div>
 </div>

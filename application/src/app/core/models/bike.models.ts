@@ -7,24 +7,25 @@ export interface IBikeParametersResponse {
     lang: string
 }
 
-export interface IBikeRecord {
+export interface IBikeStation {
     datasetid: string,
     recordid: string,
     fields: {
+        capacity: number,
         stationcode: string,
         coordonnees_geo: [number, number],
-        capacity: number,
-        name: string
+        name: string,
+        dist: string
     },
     geometry: {
         type: string,
         coordinates: [number, number]
     },
-    record_timestamp: Date
+    record_timestamp: Date,
 }
 
 export interface IBikeResponse {
     nhits: number,
     parameters: IBikeParametersResponse,
-    records: IBikeRecord[]
+    records: IBikeStation[]
 }

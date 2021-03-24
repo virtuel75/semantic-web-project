@@ -5,18 +5,19 @@
             <!-- logo, app title -->
             <app-header></app-header>
             <!-- formulaire -->
-            <app-formulaire-trajet (cityChange)="onCityChange($event)"></app-formulaire-trajet>
+            <app-formulaire-trajet (cityChange)="onCityChange($event)" (schoolChange)="onSchoolChange($event)">
+            </app-formulaire-trajet>
             <!-- résultats -->
-            <app-resultats-container class="h-100"></app-resultats-container>
+            <app-resultats-container class="h-100" [items]="Stations"></app-resultats-container>
         </div>
     </mat-sidenav>
 
     <!-- app content -->
     <mat-sidenav-content id="app-content" class="bg-light text-dark">
         <!-- container for the map -->
-        <app-map class="h-100 w-100" [center]="Center"></app-map>
+        <app-map class="h-100 w-100" [center]="Center" [zoom]="Zoom" [markers]="Markers"></app-map>
 
         <!-- meteo -->
-        <app-meteo id="app-meteo"></app-meteo>
+        <app-meteo id="app-meteo" [meteo]="Meteo"></app-meteo>
     </mat-sidenav-content>
 </mat-sidenav-container>

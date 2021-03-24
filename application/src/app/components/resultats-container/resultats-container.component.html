@@ -2,7 +2,9 @@
     <div class="d-flex flex-column w-100 h-100">
         <p class="fs-14 fw-bold text-secondary border-bottom px-3 mb-0">Bike stations nearby</p>
         <div class="bg-light h-100">
-            <app-resultats-item></app-resultats-item>
+            <ng-template [ngIf]="items && items.length > 0">
+                <app-resultats-item *ngFor="let item of items" [item]="item"></app-resultats-item>
+            </ng-template>
         </div>
     </div>
 </div>
