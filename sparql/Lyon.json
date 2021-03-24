@@ -1,0 +1,1128 @@
+{ "head": {
+    "vars": [ "nom" , "adresse" , "Ville" , "Region" , "Longitude" , "Latitude" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "nom": { "type": "literal" , "value": "Institut des assurances de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "15 quai Claude Bernard" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.837055E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5751854E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Jean-Baptiste de La Salle" } ,
+        "adresse": { "type": "literal" , "value": "1 rue Neyret" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83023E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57717E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Burgundy School of Business" } ,
+        "adresse": { "type": "literal" , "value": "42 cours Suchet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.824707E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57461805E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ESMOD international" } ,
+        "adresse": { "type": "literal" , "value": "12 bis rue Burdeau" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83083E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57701E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Jean Perrin" } ,
+        "adresse": { "type": "literal" , "value": "48 rue Pierre Baizet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8092E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57884E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée polyvalent Edouard Branly" } ,
+        "adresse": { "type": "literal" , "value": "25 rue de Tourvielle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.7918E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57531E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Juliette Récamier" } ,
+        "adresse": { "type": "literal" , "value": "57 rue de la Charité" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83121E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57522E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Sainte-Marie" } ,
+        "adresse": { "type": "literal" , "value": "4 montée Saint-Barthélemy" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82667E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57656E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole centrale d'électronique - Groupe ECE - campus de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "25 rue de l'Université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.840384E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5751722E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Carrel" } ,
+        "adresse": { "type": "literal" , "value": "119 rue Boileau" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8496046E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57659591E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lyon Ynov Campus" } ,
+        "adresse": { "type": "literal" , "value": "27 rue Raoul Servant" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8377549946314E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.574571565E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole santé social Sud-Est" } ,
+        "adresse": { "type": "literal" , "value": "20 rue de la Claire" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80558E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57798E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut d'administration des entreprises" } ,
+        "adresse": { "type": "literal" , "value": "6 cours Albert Thomas" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86141E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57488E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Jehanne de France" } ,
+        "adresse": { "type": "literal" , "value": "6 rue de la Fraternelle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8036E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57693E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "CFAI Lyon" } ,
+        "adresse": { "type": "literal" , "value": "10 boulevard Edmond Michelet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.88921E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57434E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole de commerce européenne - programme BBA Inseec" } ,
+        "adresse": { "type": "literal" , "value": "25 rue de l'Université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83994E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57505E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ICOGES Rhône-Alpes" } ,
+        "adresse": { "type": "literal" , "value": "11 bis boulevard Vivier Merle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85829E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57621E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "CFA de l'AFPIA Sud-Est" } ,
+        "adresse": { "type": "literal" , "value": "55 rue Feuillat" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8749E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57453E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ESTRI" } ,
+        "adresse": { "type": "literal" , "value": "23 place Carnot" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82696E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57514E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "UCPA Formation" } ,
+        "adresse": { "type": "literal" , "value": "2 rue Professeur Zimmermann" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8363544E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57458225E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Made In Sainte-Marie Lyon" } ,
+        "adresse": { "type": "literal" , "value": "2 chemin de Montauban" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82667E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57656E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole supérieure de biologie-biochimie-biotechnologies" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82555E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57473E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté de philosophie et de sciences humaines" } ,
+        "adresse": { "type": "literal" , "value": "23 place Carnot" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82696E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57514E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de science financière et d'assurances" } ,
+        "adresse": { "type": "literal" , "value": "50 avenue Tony Garnier" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82621E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57264E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ADONIS" } ,
+        "adresse": { "type": "literal" , "value": "55 rue Baraban" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85611E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5754E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "École catholique d'arts et métiers de la Fondation ECAM LaSalle - site de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "40 montée Saint Barthélemy" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82482E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57625E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Carrel Ecole des métiers de la santé et du social" } ,
+        "adresse": { "type": "literal" , "value": "119 rue Boileau" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8496046E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57659591E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation aux carrières de santé des HCL-site Lacassagne" } ,
+        "adresse": { "type": "literal" , "value": "162 avenue Lacassagne" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.88602E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57417E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée polyvalent Hector Guimard" } ,
+        "adresse": { "type": "literal" , "value": "23 rue Claude Veyron" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85793E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57457E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Lacassagne" } ,
+        "adresse": { "type": "literal" , "value": "93 rue Antoine Charial" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8704E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57578E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut d'études politiques (Sciences Po Lyon)" } ,
+        "adresse": { "type": "literal" , "value": "14 avenue Berthelot" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8358E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5747E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation en soins infirmiers et Institut de formation d'aides-soignants J. Lepercq - Hôpital St-Joseph St-Luc" } ,
+        "adresse": { "type": "literal" , "value": "42 bis rue Professeur Grignard" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83903E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57469E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut national des formations notariales" } ,
+        "adresse": { "type": "literal" , "value": "18 rue Chevreul" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83786E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57493E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole de psychologues praticiens" } ,
+        "adresse": { "type": "literal" , "value": "71 rue Molière" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.84319E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57631E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut des sciences de la famille" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82555E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57473E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Assomption Bellevue - Pôle enseignement supérieur" } ,
+        "adresse": { "type": "literal" , "value": "172 avenue Jean Jaurès" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.836647E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5736444E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Horizon Santé" } ,
+        "adresse": { "type": "literal" , "value": "6 rue de la Martinière" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82874E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57682E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Carrel Centre de formation" } ,
+        "adresse": { "type": "literal" , "value": "119 rue Boileau" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8496046E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57659591E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée La Martinière Monplaisir" } ,
+        "adresse": { "type": "literal" , "value": "41 rue Antoine Lumière" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86779E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57401E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée du Parc" } ,
+        "adresse": { "type": "literal" , "value": "1 boulevard Anatole France" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85692E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57717E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Colbert" } ,
+        "adresse": { "type": "literal" , "value": "20 rue Louis Jouvet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86028E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5745E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation aux carrières de santé des HCL - site Esquirol" } ,
+        "adresse": { "type": "literal" , "value": "5 avenue Esquirol" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.886324E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5741629E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut supérieur Architecture intérieure" } ,
+        "adresse": { "type": "literal" , "value": "232 rue Paul Bert" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86576E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57568E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole des avocats de la région Rhône-Alpes" } ,
+        "adresse": { "type": "literal" , "value": "191 rue Vendôme" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.84669E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57605E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "CFA Polyvia Formation" } ,
+        "adresse": { "type": "literal" , "value": "10 boulevard Edmond Michelet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.877517E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5732707E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée professionnel de la SEPR" } ,
+        "adresse": { "type": "literal" , "value": "46 rue du professeur Rochaix" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.87724E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57457E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Département de formation et centre de recherche en biologie humaine" } ,
+        "adresse": { "type": "literal" , "value": "8 avenue Rockefeller" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8806119E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57416183E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole normale supérieure de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "15 parvis René Descartes" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83338E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5732E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut d'études du travail de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "4 bis rue de l'Université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83779E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57514E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté de philosophie" } ,
+        "adresse": { "type": "literal" , "value": "1 rue de l'Université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83704E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57498E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut supérieur d'optique de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "9 avenue Leclerc" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83289E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57465E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut régional de formation sanitaire et sociale Auvergne-Rhône-Alpes - Croix-Rouge française - site de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "115 avenue Lacassagne" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8766955999999E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57493665E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Université Jean Moulin - Lyon 3" } ,
+        "adresse": { "type": "literal" , "value": "1 rue de l'Université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.860764E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5749139E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Césame" } ,
+        "adresse": { "type": "literal" , "value": "115 cours Albert Thomas" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.87309E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5745E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée La Favorite" } ,
+        "adresse": { "type": "literal" , "value": "62 rue de la Favorite" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80594E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57565E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation en masso-kinésithérapie pour déficients de la vue" } ,
+        "adresse": { "type": "literal" , "value": "8 avenue Rockefeller" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8842E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5759433E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut des sciences et techniques de la réadaptation" } ,
+        "adresse": { "type": "literal" , "value": "8 avenue Rockefeller" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.88011E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57423E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Centre d'études franco-américain de management" } ,
+        "adresse": { "type": "literal" , "value": "47 rue Sergent Michel Berthet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "CFA de l'IGS (Bureautique et métiers tertiaires)" } ,
+        "adresse": { "type": "literal" , "value": "47 rue Sergent Michel Berthet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut polytechnique des sciences avancées - campus de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "86 boulevard Vivier Merle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.858946E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5754756E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation aux affaires et à la gestion" } ,
+        "adresse": { "type": "literal" , "value": "47 rue Sergent Michel Berthet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "E-artsup Lyon" } ,
+        "adresse": { "type": "literal" , "value": "2 rue du Professeur Charles Appleton" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.834849E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5746098E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut national supérieur du professorat et de l'éducation (site de la Croix-Rousse)" } ,
+        "adresse": { "type": "literal" , "value": "5 rue Anselme" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.824475E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5773776E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Gaming business school" } ,
+        "adresse": { "type": "literal" , "value": "50 rue de Marseille" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8396461E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57514359E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Ampère" } ,
+        "adresse": { "type": "literal" , "value": "29 rue de la Bourse" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.837E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57653E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation de la profession de l'assurance - ENASS" } ,
+        "adresse": { "type": "literal" , "value": "50 avenue Tony Garnier" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8262177E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57262192E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole nationale supérieure des arts et techniques du théâtre" } ,
+        "adresse": { "type": "literal" , "value": "4 rue Soeur Bouvier" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.81231E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57534E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole nationale supérieure des beaux-arts de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "8 bis quai Saint-Vincent" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.81675E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5768E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée ICOF" } ,
+        "adresse": { "type": "literal" , "value": "8 avenue Debrousse" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8139E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57507E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut supérieur de gestion" } ,
+        "adresse": { "type": "literal" , "value": "86 boulevard Vivier Merle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85893E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57549E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ESDES Lyon Business School" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82555E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57473E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut catholique de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.826411E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5746622E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole supérieure d'architecture intérieure de Lyon (groupe IDRAC)" } ,
+        "adresse": { "type": "literal" , "value": "7-9 rue Jean-Marie Leclair" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut européen de formation au tourisme" } ,
+        "adresse": { "type": "literal" , "value": "47 rue Sergent Michel Berthet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Vatel" } ,
+        "adresse": { "type": "literal" , "value": "8 rue Duhamel" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82937E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57503E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole supérieure d'arts appliqués - La Martinière Diderot" } ,
+        "adresse": { "type": "literal" , "value": "18 place Gabriel Rambaud" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.822494E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5769707E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole Brassart Lyon" } ,
+        "adresse": { "type": "literal" , "value": "2 avenue du Château de Gerland" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.84435E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57259E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "SUPDEMOD - Fashion design and business school" } ,
+        "adresse": { "type": "literal" , "value": "4 rue Paul Montrochet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.81541E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57408E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Conservatoire national supérieur musique et danse de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "3 quai Chauveau" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.81261E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57688E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut d'études judiciaires" } ,
+        "adresse": { "type": "literal" , "value": "15 quai Claude Bernard" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.837055E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5751854E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole d'esthétique et coiffure Silvya Terrade" } ,
+        "adresse": { "type": "literal" , "value": "73 rue Louis Blanc" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8543E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57653E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole supérieure de commerce et développement - 3A" } ,
+        "adresse": { "type": "literal" , "value": "47 rue Sergent Michel Berthet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut formation et recherche sur les organisations sanitaires" } ,
+        "adresse": { "type": "literal" , "value": "18 rue Chevreul" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.842057E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5747762E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Peyrefitte esthétique" } ,
+        "adresse": { "type": "literal" , "value": "21-24 quai Tilsitt" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82639E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57559E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté de théologie" } ,
+        "adresse": { "type": "literal" , "value": "23 place Carnot" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82696E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57514E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "CFA des métiers de la finance et de la banque" } ,
+        "adresse": { "type": "literal" , "value": "2 rue de la Fraternelle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80353E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57697E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ESME Sudria - campus de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "16 rue de l'Abbaye d'Ainay" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8270486E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57541981E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée professionnel Louise Labé" } ,
+        "adresse": { "type": "literal" , "value": "65 boulevard Yves Farge" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83135E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57397E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "UCPA L'école des Dj's" } ,
+        "adresse": { "type": "literal" , "value": "16 rue de Toulon" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85099E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57404E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Université Lumière - Lyon 2" } ,
+        "adresse": { "type": "literal" , "value": "86 rue Pasteur" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8380453412781E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.575035663579E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté des langues" } ,
+        "adresse": { "type": "literal" , "value": "6 cours Albert Thomas" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86141E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57488E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de formation de techniciens de laboratoire médical" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82555E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57473E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de gestion sociale - Ecole des ressources humaines" } ,
+        "adresse": { "type": "literal" , "value": "7-9 rue Jean-Marie Leclair" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée ORT" } ,
+        "adresse": { "type": "literal" , "value": "133 rue Marius Berliet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86766E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57381E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée La Martinière Diderot - site Terreaux" } ,
+        "adresse": { "type": "literal" , "value": "18 place Gabriel Rambaud" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83002E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5768E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Cours Diderot" } ,
+        "adresse": { "type": "literal" , "value": "23 rue Renan" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8422E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57469E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut des Techniques d'Ingénieur de l'Industrie de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "60 avenue Jean Mermoz" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.878802E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5733323E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Groupe Sciences U Lyon - CRESPA" } ,
+        "adresse": { "type": "literal" , "value": "53 cours Albert Thomas" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86545E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57477E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "L'école des nouveaux métiers de la communication" } ,
+        "adresse": { "type": "literal" , "value": "142 rue Duguesclin" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.823592E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5779928E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole Emile Cohl" } ,
+        "adresse": { "type": "literal" , "value": "1 Rue Félix Rollet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86576E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57568E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole de coiffure de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "2 quai Jean Moulin" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8377273552254E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5767624599139E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole supérieure qualité sécurité-santé environnement" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82555E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57473E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Conservatoire à rayonnement régional de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "4 montée Cardinal Decourtray" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.822114E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.576105E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut des droits de l'Homme" } ,
+        "adresse": { "type": "literal" , "value": "10 place des Archives" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82555E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57473E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté d'odontologie" } ,
+        "adresse": { "type": "literal" , "value": "11 rue Guillaume Paradin" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.88711E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5738E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Foucauld Sup'" } ,
+        "adresse": { "type": "literal" , "value": "6 rue bara" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.87208E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5751E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée professionnel Camille Claudel" } ,
+        "adresse": { "type": "literal" , "value": "15 rue de Cuire" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83015E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57768E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Association régionale pour la formation, la recherche et l'innovation en pratiques sociales" } ,
+        "adresse": { "type": "literal" , "value": "10 impasse Pierre Baizet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.81462E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57914E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut Sup'Biotech de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "156 rue Paul Bert" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8569345E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57569868E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut de droit patrimonial et immobilier" } ,
+        "adresse": { "type": "literal" , "value": "15 quai Claude Bernard" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.837055E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5751854E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Académie d'art dentaire Isabelle Dutel" } ,
+        "adresse": { "type": "literal" , "value": "181-203 avenue Jean Jaurès" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83684E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57364E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Auguste et Louis Lumière" } ,
+        "adresse": { "type": "literal" , "value": "50 boulevard des Etats-Unis" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86207E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57361E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole pour l'informatique et les techniques avancées - site de Lyon" } ,
+        "adresse": { "type": "literal" , "value": "86 boulevard Marius Vivier Merle" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82721E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57542E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté de droit" } ,
+        "adresse": { "type": "literal" , "value": "15 quai Claude Bernard" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.837055E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5751854E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Saint-Louis - Saint-Bruno" } ,
+        "adresse": { "type": "literal" , "value": "16 rue des Chartreux" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82323E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5772E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "UFR lettres, sciences du langage et arts" } ,
+        "adresse": { "type": "literal" , "value": "18 quai Claude Bernard" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83627E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57508E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Centre européen d'enseignement supérieur de l'ostéopathie" } ,
+        "adresse": { "type": "literal" , "value": "39 rue Pasteur" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83993E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57529E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "UFR droit et science politique" } ,
+        "adresse": { "type": "literal" , "value": "4bis rue de l'université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83779E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57514E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "IUT Jean Moulin - Lyon 3" } ,
+        "adresse": { "type": "literal" , "value": "88 rue Pasteur" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8370392619019E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5748862934109E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "SUP'DE COM école supérieure de communication" } ,
+        "adresse": { "type": "literal" , "value": "7 rue jean-Marie Leclair" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8059821128845E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5770284537293E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "The School of Advanced Management and Finance" } ,
+        "adresse": { "type": "literal" , "value": "47 rue Sergent Michel Berthet" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.80583E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57685E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole supérieure du commerce extérieur" } ,
+        "adresse": { "type": "literal" , "value": "25 rue de l'Université" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83994E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57505E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée des Chartreux" } ,
+        "adresse": { "type": "literal" , "value": "58 rue Pierre Dupont" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82245E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57718E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Chevreul Lestonnac" } ,
+        "adresse": { "type": "literal" , "value": "2 boulevard des Tchécoslovaques" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.844773E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5769934E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Cnam Lyon Métropole" } ,
+        "adresse": { "type": "literal" , "value": "4 rue ravier" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8385298023773E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.573852498834E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ISEG - Digital Marketing and Communication School" } ,
+        "adresse": { "type": "literal" , "value": "2 rue Professeur Appleton" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.834849E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5746098E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée Notre-Dame des Minimes" } ,
+        "adresse": { "type": "literal" , "value": "65 rue des Aqueducs" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.78934E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57595E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole internationale des transports et de la logistique - Sup de Log (groupe Promotrans)" } ,
+        "adresse": { "type": "literal" , "value": "181 avenue Jean Jaurès" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83684E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57364E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole lyonnaise d'esthétique appliquée" } ,
+        "adresse": { "type": "literal" , "value": "40 bis rue Vaubecour" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8248E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57521E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée professionnel Carrel" } ,
+        "adresse": { "type": "literal" , "value": "119 rue Boileau" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.84963E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57662E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Classe préparatoire de l'ENSBA-Lyon" } ,
+        "adresse": { "type": "literal" , "value": "5 place du Petit Collège" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.8276609E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57638924E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "ESSCA école de management" } ,
+        "adresse": { "type": "literal" , "value": "4 Pont Pasteur" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82304E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5732876E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté des lettres et civilisations" } ,
+        "adresse": { "type": "literal" , "value": "7 rue Chevreul" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83704E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57498E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Lycée professionnel privé Saint Louis-Saint Bruno" } ,
+        "adresse": { "type": "literal" , "value": "17 rue des Chartreux" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.82326E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57721E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Centre de préparation à l'administration générale de Lyon - Sciences Po Lyon" } ,
+        "adresse": { "type": "literal" , "value": "14 avenue Berthelot" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.836028E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5747026E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté de médecine Lyon-Est - Claude Bernard" } ,
+        "adresse": { "type": "literal" , "value": "8 avenue Rockefeller" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.88011E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57423E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole Isitech - Partner Sup'" } ,
+        "adresse": { "type": "literal" , "value": "99 rue de Gerland" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.83973E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57355E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Faculté de philosophie" } ,
+        "adresse": { "type": "literal" , "value": "4 cours Albert Thomas" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.86042E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.5749289E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Ecole de Condé" } ,
+        "adresse": { "type": "literal" , "value": "23 rue Camille Roy" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.84741E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57453E1" }
+      } ,
+      { 
+        "nom": { "type": "literal" , "value": "Institut supérieur de communication et de publicité" } ,
+        "adresse": { "type": "literal" , "value": "22 boulevard des Tchécoslovaques" } ,
+        "Ville": { "type": "literal" , "value": "Lyon" } ,
+        "Region": { "type": "literal" , "value": "Auvergne-Rhône-Alpes" } ,
+        "Longitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.85878E0" } ,
+        "Latitude": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#float" , "value": "4.57476E1" }
+      }
+    ]
+  }
+}

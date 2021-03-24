@@ -1,0 +1,30 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX j.0: <http://www.semanticweb.org/ontologies/2021/2/school#>
+
+
+SELECT ?nom ?adresse ?Ville ?Region ?Longitude ?Latitude
+WHERE {
+  ?x    j.0:nom    ?nom.
+  ?x	j.0:adresse ?adresse.
+  ?x	j.0:Ville ?Ville.
+  ?x	j.0:Region ?Region.
+  ?x	j.0:Longitude ?Longitude.
+  ?x   j.0:Latitude ?Latitude.
+  
+  FILTER(?Ville = "Lyon")
+  
+}
+
+
+SELECT ?nom ?adresse ?Ville ?Region ?Longitude ?Latitude
+WHERE {
+  ?x    j.0:nom    ?nom.
+  ?x	j.0:adresse ?adresse.
+  ?x	j.0:Ville ?Ville.
+  ?x	j.0:Region ?Region.
+  ?x	j.0:Longitude ?Longitude.
+  ?x   j.0:Latitude ?Latitude.
+  
+  FILTER(?Ville = "Paris")
+  
+}
