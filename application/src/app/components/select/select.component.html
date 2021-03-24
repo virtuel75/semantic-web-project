@@ -1,0 +1,10 @@
+<mat-form-field appearance="outline" class="w-100">
+    <mat-label>{{ label }}</mat-label>
+    <mat-select (selectionChange)="onSelect($event)" [disabled]="!options || options.length <= 0">
+        <ng-template [ngIf]="options">
+            <mat-option *ngFor="let option of options; index as i" [value]="option.value">
+                {{ option.label }}
+            </mat-option>
+        </ng-template>
+    </mat-select>
+</mat-form-field>

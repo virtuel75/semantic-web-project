@@ -5,7 +5,7 @@
             <!-- logo, app title -->
             <app-header></app-header>
             <!-- formulaire -->
-            <app-formulaire-trajet></app-formulaire-trajet>
+            <app-formulaire-trajet (cityChange)="onCityChange($event)"></app-formulaire-trajet>
             <!-- résultats -->
             <app-resultats-container class="h-100"></app-resultats-container>
         </div>
@@ -14,7 +14,7 @@
     <!-- app content -->
     <mat-sidenav-content id="app-content" class="bg-light text-dark">
         <!-- container for the map -->
-        <app-map class="h-100 w-100"></app-map>
+        <app-map class="h-100 w-100" [center]="Center"></app-map>
 
         <!-- meteo -->
         <app-meteo id="app-meteo"></app-meteo>

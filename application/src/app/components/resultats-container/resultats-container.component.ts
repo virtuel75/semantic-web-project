@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { BikeService } from 'src/app/core/services/bike.service';
 
 @Component({
   selector: 'app-resultats-container',

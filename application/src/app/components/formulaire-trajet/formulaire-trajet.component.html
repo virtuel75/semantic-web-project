@@ -1,0 +1,14 @@
+<div class="px-3 pt-3">
+    <div class="row">
+        <!-- start place -->
+        <div class="col-12">
+            <app-select label="Select a city" [options]="CityOptions" (select)="onSelectCity($event)"></app-select>
+        </div>
+
+        <!-- end place -->
+        <div class="col-12">
+            <app-select label="Select an establishments" [options]="EstablishmentOptions"
+                (select)="onSelectEstablishments($event)"></app-select>
+        </div>
+    </div>
+</div>
