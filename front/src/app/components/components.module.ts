@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 
 import { MaterialModule } from '../material/material.module';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { GoogleMapsModule } from '@angular/google-maps';
 
 import { FormulaireTrajetComponent } from './formulaire-trajet/formulaire-trajet.component';
 import { HeaderComponent } from './header/header.component';
@@ -25,7 +26,8 @@ import { MapComponent } from './map/map.component';
   imports: [
     CommonModule,
     MaterialModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    GoogleMapsModule
   ],
   exports: [
     FormulaireTrajetComponent,

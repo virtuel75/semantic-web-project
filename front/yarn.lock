@@ -226,6 +226,14 @@
   dependencies:
     tslib "^2.0.0"
 
+"@angular/google-maps@^11.2.5":
+  version "11.2.5"
+  resolved "https://registry.yarnpkg.com/@angular/google-maps/-/google-maps-11.2.5.tgz#9799844d0a52863bbb9dd12e174c47c0d11cf358"
+  integrity sha512-xViMIK+ERBVwH7VNkkQ3vJvaWM7gFUz8AkveXGy8LkQSrgPVQQN/jLIDrHq3vx8n7CmtsckKjq4ZW70/vYt0gA==
+  dependencies:
+    "@types/googlemaps" "^3.43.0"
+    tslib "^2.0.0"
+
 "@angular/material@^11.2.4":
   version "11.2.4"
   resolved "https://registry.yarnpkg.com/@angular/material/-/material-11.2.4.tgz#3ec538414aa23e94dcbc89c6fa8ec5c9e03ba49f"
@@ -1234,6 +1242,11 @@
   dependencies:
     "@types/minimatch" "*"
     "@types/node" "*"
+
+"@types/googlemaps@^3.43.0":
+  version "3.43.3"
+  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.43.3.tgz#70cf962154a160fe78bcd69d6ccc296dd9175b1f"
+  integrity sha512-ZWNoz/O8MPEpiajvj7QiqCY8tTLFNqNZ/a+s+zTV58wFVNAvvqV4bdGfnsjTb5Cs4V6wEsLrX8XRhmnyYJ2Tdg==
 
 "@types/jasmine@~3.6.0":
   version "3.6.7"
