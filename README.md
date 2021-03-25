@@ -38,3 +38,4 @@ Pour utiliser l'application il suffit d'aller à l'adresse suivante : https://st
 
 ## Vidéo
 
+https://user-images.githubusercontent.com/32638260/112446816-e5f6f800-8d50-11eb-99ee-ca77f2158cf3.mp4
