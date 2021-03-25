@@ -36,6 +36,8 @@ Le dossier `ontologies/JSON to LD scripts/` contient les codes python permettant
 
 Pour utiliser l'application il suffit d'aller à l'adresse suivante : https://studyride.web.app/
 
+Commencer par selectionner une ville (cela va permettre charger la météo pour cette ville). Ensuite selectionner un établissement scolaire. La selection de l'établissement va charger les stations de vélo proches de celui-ci et les afficher sur la map.
+
 ## Vidéo
 
 https://user-images.githubusercontent.com/32638260/112446816-e5f6f800-8d50-11eb-99ee-ca77f2158cf3.mp4
